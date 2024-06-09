@@ -65,3 +65,24 @@ span{
 .card:hover{
     transform: translateY(-15px);
 }
+footer {
+    width: 100%;
+    padding: 20px;
+    background-color: #f8f9fa;
+    text-align: center;
+}
+
+.social-media {
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+.social-media a {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-media a img {
+    width: 32px;
+    height: 32px;
+}
